@@ -12,7 +12,7 @@ exemplo: A -> B + C'.
 - `gnrstack.h` -> include guards da pilha genérica
 
 ## Como compilar
-gcc main.c -Iinclude -o build/program
+gcc main.c -std=c99 -Iinclude -o build/program
 
 ## Como executar
 ./build/program
