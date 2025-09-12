@@ -1,7 +1,7 @@
 # Tabela verdade
 
 Projeto feito em C que implementa um gerador de tabelas verdades, contendo as operações AND ('.', '^', '*'), OR ('+', 'v'),
-implicação ('->'), bicondicional('<->') e negação('), levando em conta as devidas ordens de precedencia. A ordem de precedencia
+implicação ('->'), bicondicional('<->') e negação( ' ), levando em conta as devidas ordens de precedencia. A ordem de precedencia
 pode ser alterada usando parenteses. O programa causa erro caso os parenteses estejam desbalanceados
 
 exemplo: A -> B + C'.
